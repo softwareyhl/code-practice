@@ -6,12 +6,14 @@
 
   <groupId>org.yu.code</groupId>
   <artifactId>code-practice</artifactId>
-  <version>1.0.0</version>
+    <packaging>pom</packaging>
+    <version>1.0.0</version>
 
   <name>code-practice</name>
 
   <modules>
     <module>laicode</module>
+      <module>design-pattern</module>
   </modules>
 
   <properties>
